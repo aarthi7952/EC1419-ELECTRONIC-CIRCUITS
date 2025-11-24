@@ -12,12 +12,14 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
-## Tabulation
-<img width="676" height="796" alt="511818072-151710c9-5a2a-404a-9e5a-75b47c1a6477" src="https://github.com/user-attachments/assets/2507f5d7-4367-42a0-a159-1eeaca402370" />
+## Calculation
+![WhatsApp Image 2025-11-24 at 09 40 31_816c9413](https://github.com/user-attachments/assets/ca63b3c8-61f1-4393-a38a-079f19ddf3d8)
 
 ## Graph
+![WhatsApp Image 2025-11-24 at 09 40 31_ec1d0426](https://github.com/user-attachments/assets/72b7f0bd-6f84-4d5d-a806-f56f9bae2feb)
 
-![511818136-ea83c42e-787a-4e7d-9e0e-5ed54117103f](https://github.com/user-attachments/assets/3b8df7f5-129a-4983-9319-abf4c05ba579)
+<img width="1260" height="742" alt="image" src="https://github.com/user-attachments/assets/0fa17f4c-df66-4985-aca2-1e860db8df07" />
+
 
 <img width="693" height="167" alt="509961314-b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" src="https://github.com/user-attachments/assets/01cffb3c-3f08-427a-b983-d914c7dc3cbb" />
 
